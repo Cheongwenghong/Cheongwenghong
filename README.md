@@ -16,15 +16,22 @@
 const wengHong = {
     location: "Malaysia",
     currentFocus: "TechiesApp",
-    code: ["TypeScript", "JavaScript", "React Native", "React.js"],
-    askMeAbout: ["Mobile Dev", "React Native", "TypeScript", "Frontend"],
+    code: ["TypeScript", "JavaScript", "React Native", "Expo", "React.js"],
+    askMeAbout: ["Mobile Dev", "React Native", "Expo", "TypeScript", "Frontend"],
     technologies: {
-        mobile: ["React Native", "Expo"],
+        mobile: {
+            frameworks: ["React Native", "Expo"],
+            tooling: ["Expo EAS", "Expo Modules", "Expo Updates"]
+        },
         frontend: ["React", "Redux", "zustand", "Tailwind CSS"],
         backend: ["Node.js", "Express"],
-        tools: ["Git", "Firebase", "VS Code"]
+        tools: ["Git", "Firebase", "VS Code", "EAS CLI"]
     },
-    currentChallenges: ["Improving code quality", "Learning system design"]
+    expoExpertise: {
+        workflow: ["Managed", "Development Builds", "Custom Dev Client"],
+        build: ["EAS Build", "EAS Update", "EAS Submit"]
+    },
+    currentChallenges: ["Improving code quality", "Learning system design", "Expo module development"]
 };
 ```
 
@@ -51,6 +58,7 @@ const wengHong = {
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 </p>
 
 <h2>📊 This Week's Coding Stats</h2>
@@ -58,7 +66,8 @@ const wengHong = {
 ```text
 TypeScript    █████████████████░░░░  65.45%
 JavaScript    ██████░░░░░░░░░░░░░░  22.62%
-JSON          ███░░░░░░░░░░░░░░░░  11.93%
+Expo Config   ███░░░░░░░░░░░░░░░░   8.93%
+JSON          ██░░░░░░░░░░░░░░░░░   3.00%
 ```
 
 <h2>🤝 Connect With Me</h2>
