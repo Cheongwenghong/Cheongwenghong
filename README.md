@@ -48,7 +48,19 @@ const wengHong = {
     <img src="https://img.shields.io/badge/💼_ASP_Flexi-Benefits_System-purple?style=for-the-badge" />
   </a>
   <a href="https://github.com/TechiesApp/asp-home-nursing-care-mobile">
-    <img src="https://img.shields.io/badge/💼_ASP_Flexi-Benefits_System-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🏥_Home_Nursing-Mobile_App-pink?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/TechiesApp/bookcode-app">
+    <img src="https://img.shields.io/badge📚_BookCode-Education_App-yellow?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/TechiesApp/juump-app">
+    <img src="https://img.shields.io/badge/📱_Juump-Mobile_App-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/TechiesApp/juump-restaurant-web">
+    <img src="https://img.shields.io/badge/🍽️_Juump_Restaurant-Web_App-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/TechiesApp/ftagib-middle-office">
+    <img src="https://img.shields.io/badge/🧩_FTAGIB-Middle_Office-grey?style=for-the-badge" />
   </a>
 </div>
 
