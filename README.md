@@ -16,15 +16,14 @@
 const wengHong = {
     location: "Malaysia",
     currentFocus: "TechiesApp",
-    code: ["TypeScript", "JavaScript", "React Native", "Expo", "React.js"],
-    askMeAbout: ["Mobile Dev", "React Native", "Expo", "TypeScript", "Frontend"],
+    code: ["TypeScript", "JavaScript", "React Native", "Expo", "React.js", "Next.js"],
+    askMeAbout: ["Mobile Dev", "React Native", "Expo", "TypeScript", "Frontend", "Next.js"],
     technologies: {
         mobile: {
             frameworks: ["React Native", "Expo"],
             tooling: ["Expo EAS", "Expo Modules", "Expo Updates"]
         },
-        frontend: ["React", "Redux", "zustand", "Tailwind CSS"],
-        backend: ["Node.js", "Express"],
+        frontend: ["React", "Next.js", "Redux", "zustand", "Tailwind CSS"],
         tools: ["Git", "Firebase", "VS Code", "EAS CLI"]
     },
     expoExpertise: {
@@ -34,6 +33,7 @@ const wengHong = {
     currentChallenges: ["Improving code quality", "Learning system design", "Expo module development"]
 };
 ```
+
 
 <h2>🚀 Featured Projects</h2>
 
