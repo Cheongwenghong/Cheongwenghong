@@ -6,13 +6,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cheongwenghong&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cheongwenghong&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## ☕ What I'm Passionate About
-
-**New Section Features:**
+## ☕ What I'm Passionate About ❤️
 - ☕ **Coffee passion** - Highlighted your love for long black ice and americano
 - 🛠️ **Tool crafting** - Emphasized your passion for building innovative tools
 - 🚀 **Technology exploration** - Showcased your enthusiasm for learning new tech
