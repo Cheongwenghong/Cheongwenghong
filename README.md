@@ -10,6 +10,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cheongwenghong&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+## ☕ What I'm Passionate About
+
+**New Section Features:**
+- ☕ **Coffee passion** - Highlighted your love for long black ice and americano
+- 🛠️ **Tool crafting** - Emphasized your passion for building innovative tools
+- 🚀 **Technology exploration** - Showcased your enthusiasm for learning new tech
+- 💡 **Problem-solving focus** - Connected your passion to real-world impact
+- 🌱 **Growth mindset** - Emphasized continuous learning as a core value
+- 🤖 **AI-powered development** - Love using AI tools to boost efficiency and productivity
+
 ## 🧑‍💻 About Me
 
 ```typescript
